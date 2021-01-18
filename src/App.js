@@ -6,7 +6,7 @@ import Table from './components/Table';
 
 
 function App() {
-  const [data, setData] =useState(items)
+  const [data] =useState(items)
   return (
     <div className="container-fluid">
       <Navbar/>
