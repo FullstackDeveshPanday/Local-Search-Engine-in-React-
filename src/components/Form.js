@@ -1,4 +1,3 @@
-import React from 'react';
 
 export default [
     {
@@ -42,7 +41,7 @@ export default [
         amount: 1,
       },
       {
-        id: 5,
+        id: 6,
         title: 'Xiaomi Redmi Note 2',
         price: 699.99,
         img:
